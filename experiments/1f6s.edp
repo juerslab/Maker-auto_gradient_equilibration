@@ -1,0 +1,51 @@
+!EdPDB -- (v22 ), copyright by X. Cai Zhang.                     
+! Attention: This version of EdPDB is FREE for academics.        
+!% edpdb 1f6s.pdb           
+! at 23:23:52 on 2025-06-05
+ 
+read exp_2652_refine_020.pdb ghijkl
+ca from {ch a}
+!!ch a          
+gr a
+init
+ca from {ch b}
+!!ch b          
+gr b
+init
+ca from {ch c}
+!!ch c          
+gr c
+init
+ca from {ch d}
+!!ch d          
+gr d
+init
+ca from {ch e}
+!!ch e          
+gr e
+init
+ca from {ch f}
+!!ch f          
+gr f
+init
+ca from {ch g}
+!!ch g          
+over a
+init
+ca from {ch h}
+!!ch h          
+init
+ca from {ch i}
+!!ch i          
+over c
+init
+ca from {ch j}
+!!ch j          
+over d
+init
+ca from {ch k}
+!!ch k          
+init
+ca from {ch l}
+!!ch l          
+over f

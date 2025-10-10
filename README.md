@@ -18,14 +18,14 @@ The project uses an open source syringe pumping system located here:  https://gi
 
 The syringe pumping system uses stepper motors to move the plungers on standard disposable syringes with precise displacements. The stepper motors are controlled via an Arduino microcontroller with stepper motor drivers. A Python program issues commands to the microcontroller to move the syringes and communicates with a simple microscope for visualization of the sample. The Python program can be set up to run on any laptop or desktop computer. As described here, a Raspberry Pi computer is used. 
 
-Detailed instructions on how to make the syringe pumping system are located here: https://pachterlab.github.io/poseidon/
+Detailed instructions for making the syringe pumping system are located here: https://pachterlab.github.io/poseidon/
 
 A brief summary is here:
 - Purchase the required parts.
-- Download and 3D print parts (this repository includes copies of all 3D print files):
+- Download print files and 3D print parts (this repository includes copies of all 3D print files):
 	- Syringe pump pieces
 	- Raspberry pi/microscope framework
-	- Crystal pot holder
+	- Crystal pot holder & cover. There are two versions of the crystal pot holder - one for circular and one for square coverslips.  Note if the tubing fit is too tight (the tubing cannot be pushed into the hole) or too loose (the tubing doesn't stay in position), the tubing hole diameter should be modified using OpenSCAD.  
 - Assemble the syringe pumps. See build videos linked above.
 - Assemble the Arduino & stepper motor controllers
 - Assemble the Raspberry Pi with screen (if using)
