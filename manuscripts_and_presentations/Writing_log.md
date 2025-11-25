@@ -66,3 +66,24 @@ ToDo (still):
 
 2025-01-23
 - Working on making GUI nicer - with more complete help, etc. 
+
+2025-03-25
+- Submitted to Acta crystallographica F
+
+2025-04-22
+- Comments from reviewers. Addressing these, including providing diffraction data and structure determination
+
+2025-06-10
+- Revised manuscript submitted
+
+2025-07-25
+- Additional comments from a reviewer that didn't make the first round on 4/22
+
+2025-08-25
+- Revision 2 submitted
+
+2025-09-23
+- Accepted, published in the November 2025 issue of Acta F.
+
+2025-10-03
+- Available online

@@ -52,7 +52,9 @@ c. Copy poseidon_gf_main_v0.x.y.py and poseidon_controller_gf_gui.py to the same
 
 
 ## Manuscripts & Presentations
-This work was presented in a poster at the ACA Meeting in Portland, OR in summer 2023.
+This work was presented:
+- in a [poster](./manuscripts_and_presentations/ACA_2022.pdf) at the [ACA Meeting in Portland, OR in summer 2022](https://journals.iucr.org/a/issues/2022/a1/00/).
+- in a [paper in Acta Crystallographica F (2025)](https://journals.iucr.org/f/issues/2025/11/00/yg5013/index.html).   
 
 ## Other tidbits
 
